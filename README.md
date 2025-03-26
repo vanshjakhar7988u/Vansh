@@ -1,3 +1,1 @@
-# Vansh
-This is my git repo
-yoyoyo paaji
+Hi 👋, I'm Vansh Jakhar
